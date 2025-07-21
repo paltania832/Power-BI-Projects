@@ -4,7 +4,7 @@ This Power BI dashboard analyzes and visualizes data from two key sources:
 - [TMDB 5000 Movies Dataset](https://www.kaggle.com/datasets/chaitanyasood1/tmdb-5000-movies?select=tmdb_5000_movies.csv)
 - Oscar-winning movies dataset
 
-The dashboard provides interactive insights into movie revenues, genres, popularity, and award performance, with additional custom logic and dynamic data transformations.
+The dashboard provides interactive insights into movie revenues, genres, popularity, and award winning movies, with additional custom logic and dynamic data transformations.
 
 ---
 
