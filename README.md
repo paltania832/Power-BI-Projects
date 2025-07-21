@@ -19,7 +19,7 @@ The dashboard provides interactive insights into movie revenues, genres, popular
 
 ### Scenario 1:
 - Dashboard only includes movies that are **present in both the TMDB and Oscars datasets**.
-- In the Oscars dataset, some movies appear multiple times due to re-releases. We are programmatically removing duplicate movie entries in the Oscar dataset, where some movies have been re-released (i.e., same movie title appears multiple times with different release years). T
+- In the Oscars dataset, some movies appear multiple times due to re-releases. We are programmatically removing duplicate movie entries in the Oscar dataset, where some movies have been re-released (i.e., same movie title appears multiple times with different release years). 
 - A **dynamic Power Query transformation** removes all but the **most recent release** of each duplicate title.
 - This logic is dynamic and will auto-handle future changes or additions to the data.
 
