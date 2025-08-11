@@ -49,9 +49,10 @@ The dashboard provides interactive insights into movie revenues, genres, popular
 - **Treemap**: Most Popular Movies by Popularity Score
 - **Stacked Column Chart**: Top Budgeted Movies
 - **Stacked Bar Chart**: Most Award-Winning Movies
-- **Slicer Filters**:
+- **Slicer Filters**: Created a collapsible slicer pane by combining a bookmark with a button and shape 
   - Genre
   - Release Year
+- ** Created KPI using New Card Visual
 
 ---
 
