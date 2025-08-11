@@ -125,6 +125,3 @@ This project is intended for educational and non-commercial purposes. Data is so
 
 ---
 
-## Contributions
-
-Suggestions and improvements are welcome! Fork the repo, make your changes, and submit a pull request.
